@@ -4,36 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5b7dd0b859fcec4a",
+        "id": "8cfc771b43e514c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3a23a9b337c88dd9",
+            "id": "e3ab4f69fd861e8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 1 - Introduction.md",
+                "file": "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Introduction"
+              "title": "Lecture 2 - Linear regression and Gradient Descent"
             }
           },
           {
-            "id": "178cb8a33e60b354",
+            "id": "32ddbaa51d35bf3d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/major-categories-of-machine-learning.excalidraw.md"
+                "file": "Lecture 2/linear-regression.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "major-categories-of-machine-learning.excalidraw"
+              "title": "linear-regression.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -90,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9aceb7dcc03edd7a",
@@ -187,21 +187,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a23a9b337c88dd9",
+  "active": "32ddbaa51d35bf3d",
   "lastOpenFiles": [
-    "Excalidraw/major-categories-of-machine-learning.excalidraw.md",
-    "Lecture 1 - Introduction.md",
-    "Sem título.md",
-    "Excalidraw"
+    "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
+    "Lecture 1/supervised_learning.excalidraw.md",
+    "Lecture 2/linear-regression.excalidraw.md",
+    "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
+    "Lecture 1/unsupervised_learning.excalidraw.md",
+    "Excalidraw",
+    "Lecture 2",
+    "Lecture 1",
+    "Sem título.md"
   ]
 }
