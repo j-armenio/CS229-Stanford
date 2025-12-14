@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cfc771b43e514c5",
+        "id": "2c8d4e35fb7acbed",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ab4f69fd861e8a",
+            "id": "3b43ec831a5afe59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Lecture 2 - Linear regression and Gradient Descent"
             }
-          },
-          {
-            "id": "32ddbaa51d35bf3d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Lecture 2/linear-regression.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "linear-regression.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,12 +164,25 @@
               "icon": "lucide-list",
               "title": "Sumário de Lecture 1 - Introduction"
             }
+          },
+          {
+            "id": "d791705af28ada7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Lecture 2 - Linear regression and Gradient Descent"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -197,11 +197,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32ddbaa51d35bf3d",
+  "active": "3b43ec831a5afe59",
   "lastOpenFiles": [
+    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
+    "images/Pasted Image 20251214182551_353.png",
+    "images",
     "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
     "Lecture 1/supervised_learning.excalidraw.md",
-    "Lecture 2/linear-regression.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
     "Lecture 1/unsupervised_learning.excalidraw.md",
     "Excalidraw",
