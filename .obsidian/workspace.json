@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3549f3ba4995e4",
+        "id": "b7e5dee99609bd43",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1a17f2e35f6624",
+            "id": "e424e77386a73e42",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md"
+                "file": "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "lucide-file",
+              "title": "Lecture 3 - Locally Weighted & Logistic Regression"
             }
           },
           {
-            "id": "07001c1c5bab4e57",
+            "id": "05f4d448c4f264be",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md"
+                "file": "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "linear-regression-and-gradient-descent.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lecture 3 - Locally Weighted & Logistic Regression"
             }
           }
         ],
@@ -89,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9aceb7dcc03edd7a",
@@ -209,14 +212,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "07001c1c5bab4e57",
+  "active": "05f4d448c4f264be",
   "lastOpenFiles": [
-    "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
-    "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
+    "Excalidraw/Drawing 2025-12-15 13.42.15.excalidraw.md",
     "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
     "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
-    "Lecture 1/unsupervised_learning.excalidraw.md",
     "Lecture 1/supervised_learning.excalidraw.md",
+    "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
+    "Lecture 2/normal_equation_deduction.jpeg",
+    "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
+    "Lecture 1/unsupervised_learning.excalidraw.md",
     "Lecture 3",
     "images/Pasted Image 20251214203558_851.png",
     "images/Pasted Image 20251214204235_634.png",
