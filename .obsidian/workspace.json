@@ -25,18 +25,15 @@
             "id": "05f4d448c4f264be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture 3/locally_weighted_regression.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 3 - Locally Weighted & Logistic Regression"
+              "icon": "excalidraw-icon",
+              "title": "locally_weighted_regression.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,9 +209,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "05f4d448c4f264be",
+  "active": "e424e77386a73e42",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-12-15 13.42.15.excalidraw.md",
+    "Lecture 3/locally_weighted_regression.excalidraw.md",
     "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
     "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Lecture 1/supervised_learning.excalidraw.md",
