@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "c8c7db28b3d453cc",
+            "id": "10bf6bbe93c14c75",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -34,19 +34,18 @@
             }
           },
           {
-            "id": "165831a8aae298f0",
+            "id": "3e4716ce7c9f1698",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Lecture 3/locally_weighted_regression.excalidraw.md"
+                "file": "Lecture 3/classification.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "locally_weighted_regression.excalidraw"
+              "title": "classification.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,14 +222,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "165831a8aae298f0",
+  "active": "6453c37f76cd0c43",
   "lastOpenFiles": [
-    "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
+    "Lecture 3/classification.excalidraw.md",
     "Lecture 3/probabilistic_interpretation.excalidraw.md",
+    "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
+    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Lecture 3/locally_weighted_regression.excalidraw.md",
     "Excalidraw",
     "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
-    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Lecture 2/normal_equation_deduction.jpeg",
     "Lecture 2/Pasted Image 20251214204235_634.png",
     "Lecture 2/Pasted Image 20251214203558_851.png",
