@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfV
 ## About the Course
 Course schedule: https://cs229.stanford.edu/syllabus-autumn2018.html
 Class notes: https://cs229.stanford.edu/main_notes.pdf
+GitHub with problem sets: https://github.com/maxim5/cs229-2018-autumn
 
 **Project**: pick an area or application that excites you and to apply machine learning to it and see if you can build a good machine learning system.
 
