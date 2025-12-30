@@ -13,4 +13,5 @@ To explain that here a probabilistic interpretation of linear regression.
 [[probabilistic_interpretation.excalidraw]]
 
 ## Classification
+Logistic regression, Batch gradient ascent, Newton's method.
 [[classification.excalidraw]]
