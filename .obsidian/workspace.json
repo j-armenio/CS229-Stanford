@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4326ee1730b1d2fa",
+            "id": "678b0f719a928a45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "678b0f719a928a45",
+            "id": "b2d57daafa4d5675",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Lecture 4/exponential_family.excalidraw.md"
+                "file": "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "exponential_family.excalidraw"
+              "title": "exponential_family_and_generalized_linear_models.excalidraw"
             }
           }
         ],
@@ -211,12 +211,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "678b0f719a928a45",
+  "active": "b2d57daafa4d5675",
   "lastOpenFiles": [
     "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
-    "Lecture 4/exponential_family.excalidraw.md",
+    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
     "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
     "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
+    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
     "Lecture 3/classification.excalidraw.md",
     "Excalidraw/Perceptron.excalidraw.md",
@@ -224,7 +225,6 @@
     "Lecture 3/probabilistic_interpretation.excalidraw.md",
     "Lecture 3/locally_weighted_regression.excalidraw.md",
     "Lecture 4",
-    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Lecture 1/supervised_learning.excalidraw.md",
     "Lecture 2/normal_equation_deduction.jpeg",
     "Lecture 2/Pasted Image 20251214204235_634.png",
