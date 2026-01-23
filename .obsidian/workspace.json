@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "547a148a820b7ce3",
+        "id": "0062c0fb9c14b820",
         "type": "tabs",
         "children": [
           {
-            "id": "4c148e8cfc6767ac",
+            "id": "d20b33be37f6617a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
-                "mode": "source",
-                "source": false
+                "file": "Problem sets/PS1/ps1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 4 - Exponential family, Generalized Linear Model"
+              "icon": "lucide-file-text",
+              "title": "ps1"
+            }
+          },
+          {
+            "id": "74bf2f2c545f795c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,17 +208,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c148e8cfc6767ac",
+  "active": "74bf2f2c545f795c",
   "lastOpenFiles": [
+    "Problem sets/PS1/ps1.pdf",
+    "Problem sets/PS1",
+    "Problem sets/PS0/ps0.pdf",
     "Lecture 4/multiclass_classification.excalidraw.md",
+    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
     "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
-    "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
-    "Lecture 3/classification.excalidraw.md",
     "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Usefull links.md",
-    "Lecture 3/locally_weighted_regression.excalidraw.md",
-    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
+    "Problem sets/PS0",
+    "Problem sets",
+    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
+    "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
     "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
+    "Lecture 5",
+    "Lecture 3/classification.excalidraw.md",
+    "Lecture 3/locally_weighted_regression.excalidraw.md",
     "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
     "Lecture 1/supervised_learning.excalidraw.md",
     "Lecture 3/probabilistic_interpretation.excalidraw.md",
@@ -224,9 +242,6 @@
     "Lecture 1/unsupervised_learning.excalidraw.md",
     "Lecture 3",
     "images",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Lecture 2",
-    "Lecture 1"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }
