@@ -7,3 +7,7 @@ Class website: https://cs229.stanford.edu/
 	Previous years projects.
 
 GitHub with problem sets and answers: https://github.com/maxim5/cs229-2018-autumn
+
+#### Conda env
+`conda env create -f environment.yml`
+`source activate cs229`
