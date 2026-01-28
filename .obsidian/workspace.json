@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "084d0b7c96cfce85",
+        "id": "9e17a7645b9744c6",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb30600e699f51d",
+            "id": "57b3ecfa98a3e9bd",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "ps1"
             }
+          },
+          {
+            "id": "8226c1f5a7686d20",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ps1-1a.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ps1-1a.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,14 +245,24 @@
       }
     ]
   },
-  "active": "9cb30600e699f51d",
+  "active": "67ca9c37d50b7f33",
   "lastOpenFiles": [
+    "Problem sets/PS1/data/ds2_train.csv",
+    "Problem sets/PS1/data/ds5_valid.csv",
+    "Problem sets/PS1/data/ds5_train.csv",
+    "Problem sets/PS1/data/ds5_test.csv",
+    "Problem sets/PS1/data/ds4_valid.csv",
+    "Problem sets/PS1/data/ds4_train.csv",
+    "Problem sets/PS1/data/ds3_valid.csv",
+    "Problem sets/PS1/data/ds3_train.csv",
+    "Problem sets/PS1/data/ds3_test.csv",
+    "Problem sets/PS1/data/ds2_valid.csv",
+    "Problem sets/PS1/data/ds1_valid.csv",
+    "Excalidraw/ps1-1a.excalidraw.md",
+    "Usefull links.md",
     "Lecture 3/locally_weighted_regression.excalidraw.md",
-    "Problem sets/PS1/ps1.pdf",
     "Lecture 3/probabilistic_interpretation.excalidraw.md",
     "Lecture 3/classification.excalidraw.md",
-    "Usefull links.md",
-    "Problem sets/environment.yml",
     "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
     "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
     "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
@@ -249,16 +272,8 @@
     "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
     "Lecture 1/unsupervised_learning.excalidraw.md",
     "Lecture 1/supervised_learning.excalidraw.md",
-    "Problem sets/env.yml",
-    "env.yml",
-    "Miniconda3-latest-Linux-x86_64.sh",
-    "Problem sets/PS1",
-    "Problem sets/PS0/ps0.pdf",
     "Lecture 4/multiclass_classification.excalidraw.md",
-    "Problem sets/PS0",
-    "Problem sets",
     "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
-    "Lecture 5",
     "Excalidraw/Perceptron.excalidraw.md",
     "Lecture 2/Pasted Image 20251214204235_634.png",
     "Lecture 2/Pasted Image 20251214203558_851.png",
