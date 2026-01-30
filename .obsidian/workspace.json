@@ -4,35 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "9e17a7645b9744c6",
+        "id": "1786ae030a38086a",
         "type": "tabs",
         "children": [
           {
-            "id": "57b3ecfa98a3e9bd",
+            "id": "96ab25cf16a45297",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Problem sets/PS1/ps1.pdf"
+                "file": "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ps1"
+              "icon": "lucide-file",
+              "title": "Lecture 5 - GDA and Naive Bayes"
             }
           },
           {
-            "id": "8226c1f5a7686d20",
+            "id": "19af957b78dd3cc2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/ps1-1a.excalidraw.md"
+                "file": "Lecture 5/generative_learning_algorithms.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ps1-1a.excalidraw"
+              "title": "generative_learning_algorithms.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -89,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9aceb7dcc03edd7a",
@@ -198,55 +200,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "c3062b4de3758fdc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7c3dfa215b74c2c0",
-        "type": "window",
-        "children": [
-          {
-            "id": "de330d957f88478c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9f848eb42f639045",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Problem sets/PS1/ps1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ps1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1441,
-        "y": -20,
-        "width": 1229,
-        "height": 653,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "67ca9c37d50b7f33",
+  "active": "96ab25cf16a45297",
   "lastOpenFiles": [
+    "Lecture 5/generative_learning_algorithms.excalidraw.md",
+    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
+    "Lecture 3/classification.excalidraw.md",
+    "Lecture 3/locally_weighted_regression.excalidraw.md",
+    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
+    "Lecture 4/multiclass_classification.excalidraw.md",
+    "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
+    "Problem sets/PS1/ps1-1a.excalidraw.md",
+    "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
+    "Problem sets/PS1/ps1.pdf",
     "Problem sets/PS1/data/ds2_train.csv",
     "Problem sets/PS1/data/ds5_valid.csv",
     "Problem sets/PS1/data/ds5_train.csv",
@@ -256,24 +231,14 @@
     "Problem sets/PS1/data/ds3_valid.csv",
     "Problem sets/PS1/data/ds3_train.csv",
     "Problem sets/PS1/data/ds3_test.csv",
-    "Problem sets/PS1/data/ds2_valid.csv",
-    "Problem sets/PS1/data/ds1_valid.csv",
-    "Excalidraw/ps1-1a.excalidraw.md",
     "Usefull links.md",
-    "Lecture 3/locally_weighted_regression.excalidraw.md",
     "Lecture 3/probabilistic_interpretation.excalidraw.md",
-    "Lecture 3/classification.excalidraw.md",
-    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
-    "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
-    "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
     "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
     "Lecture 2/normal_equation_deduction.jpeg",
     "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
     "Lecture 1/unsupervised_learning.excalidraw.md",
     "Lecture 1/supervised_learning.excalidraw.md",
-    "Lecture 4/multiclass_classification.excalidraw.md",
-    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
     "Excalidraw/Perceptron.excalidraw.md",
     "Lecture 2/Pasted Image 20251214204235_634.png",
     "Lecture 2/Pasted Image 20251214203558_851.png",
