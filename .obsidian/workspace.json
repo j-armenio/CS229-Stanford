@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1786ae030a38086a",
+        "id": "6679dab4640b531e",
         "type": "tabs",
         "children": [
           {
-            "id": "96ab25cf16a45297",
+            "id": "7d8c58f317bf6176",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 5 - GDA and Naive Bayes"
-            }
-          },
-          {
-            "id": "15b476a4f67856b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Lecture 5/probability_density_functions.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "probability_density_functions.excalidraw"
-            }
-          },
-          {
-            "id": "19af957b78dd3cc2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Lecture 5/generative_learning_algorithms.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "generative_learning_algorithms.excalidraw"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9aceb7dcc03edd7a",
@@ -223,17 +193,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "15b476a4f67856b3",
+  "active": "7d8c58f317bf6176",
   "lastOpenFiles": [
-    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
     "Lecture 5/probability_density_functions.excalidraw.md",
     "Lecture 5/generative_learning_algorithms.excalidraw.md",
+    "Lecture 4/multiclass_classification.excalidraw.md",
+    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
+    "Lecture 3/probabilistic_interpretation.excalidraw.md",
+    "Lecture 3/locally_weighted_regression.excalidraw.md",
+    "Lecture 3/classification.excalidraw.md",
+    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
+    "Lecture 1/unsupervised_learning.excalidraw.md",
+    "Lecture 1/supervised_learning.excalidraw.md",
+    "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
+    "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
+    "Lecture 2/normal_equation_deduction.jpeg",
+    "Lecture 2/normal_equation_deduction.md",
+    "Lecture 2/media",
+    "Lecture 5/media/Screenshot_20260205_185341.png",
+    "Lecture 5/media",
+    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
+    "Lecture 5/media/Screenshot_20260205_190143.png",
+    "Lecture 5/media/Screenshot_20260205_191332.png",
+    "Lecture 5/media/Screenshot_20260205_190925.png",
+    "Lecture 5/media/Screenshot_20260205_190849.png",
+    "Lecture 5/media/Screenshot_20260205_190606.png",
+    "Lecture 5/media/Screenshot_20260205_190514.png",
+    "Lecture 5/media/Screenshot_20260205_185810.png",
+    "Lecture 5/media/Screenshot_20260205_185657.png",
     "Usefull links.md",
     "Excalidraw",
-    "Lecture 3/classification.excalidraw.md",
-    "Lecture 3/locally_weighted_regression.excalidraw.md",
-    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
-    "Lecture 4/multiclass_classification.excalidraw.md",
     "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
     "Problem sets/PS1/ps1-1a.excalidraw.md",
     "Lecture 3/Lecture 3 - Locally Weighted & Logistic Regression.md",
@@ -244,21 +233,8 @@
     "Problem sets/PS1/data/ds5_test.csv",
     "Problem sets/PS1/data/ds4_valid.csv",
     "Problem sets/PS1/data/ds4_train.csv",
-    "Problem sets/PS1/data/ds3_valid.csv",
-    "Problem sets/PS1/data/ds3_train.csv",
-    "Lecture 3/probabilistic_interpretation.excalidraw.md",
-    "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
-    "Lecture 2/normal_equation_deduction.jpeg",
-    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
-    "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
-    "Lecture 1/unsupervised_learning.excalidraw.md",
-    "Lecture 1/supervised_learning.excalidraw.md",
     "Excalidraw/Perceptron.excalidraw.md",
-    "Lecture 2/Pasted Image 20251214204235_634.png",
-    "Lecture 2/Pasted Image 20251214203558_851.png",
-    "Lecture 2/Pasted Image 20251214182551_353.png",
     "Excalidraw/Drawing 2025-12-15 22.23.42.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg"
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md"
   ]
 }

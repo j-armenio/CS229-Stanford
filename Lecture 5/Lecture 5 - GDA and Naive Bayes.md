@@ -7,7 +7,7 @@ In particular, Gaussian Discriminative Analysis (GDA), that compared to logistic
 Probability density functions and distributions, in particular, Gaussian, are used a lot in this and other classes. I used these videos to study for it:
 - What is a Probability Density Function?: https://www.youtube.com/watch?v=jUFbY5u-DMs
 - What is a Gaussian Distribution?: https://www.youtube.com/watch?v=RNmDyzYw7aQ
-- What is the Central Limit Theorem?: https://www.youtube.com/watch?v=Xd0_kez9smk
+- 
 - Multivariate Normal (Gaussian) Distribution Explained: https://www.youtube.com/watch?v=UVvuwv-ne1I
 
 [[probability_density_functions.excalidraw]]
