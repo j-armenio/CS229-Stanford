@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be9abe60bf909132",
+        "id": "0ed4698c7f1cae4b",
         "type": "tabs",
         "children": [
           {
-            "id": "f79311fa8d0e730d",
+            "id": "72689f9572b7f200",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Lecture 5/generative_learning_algorithms.excalidraw.md"
+                "file": "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "generative_learning_algorithms.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lecture 5 - GDA and Naive Bayes"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9aceb7dcc03edd7a",
@@ -196,20 +197,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f79311fa8d0e730d",
+  "active": "72689f9572b7f200",
   "lastOpenFiles": [
-    "Lecture 5/probability_density_functions.excalidraw.md",
-    "Usefull links.md",
-    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
-    "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
     "Lecture 5/generative_learning_algorithms.excalidraw.md",
-    "Lecture 5/media/Screenshot_20260206_104005.png",
-    "Lecture 4/multiclass_classification.excalidraw.md",
-    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
+    "Lecture 5/probability_density_functions.excalidraw.md",
+    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
+    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
     "Lecture 3/probabilistic_interpretation.excalidraw.md",
     "Lecture 3/locally_weighted_regression.excalidraw.md",
     "Lecture 3/classification.excalidraw.md",
-    "Lecture 2/linear-regression-and-gradient-descent.excalidraw.md",
+    "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
+    "Lecture 4/multiclass_classification.excalidraw.md",
+    "Usefull links.md",
+    "Lecture 1/Lecture 1 - Introduction and Basic Concepts.md",
+    "Lecture 5/media/Screenshot_20260206_104005.png",
     "Lecture 1/unsupervised_learning.excalidraw.md",
     "Lecture 1/supervised_learning.excalidraw.md",
     "Lecture 2/Lecture 2 - Linear regression and Gradient Descent.md",
