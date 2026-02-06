@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "6679dab4640b531e",
+        "id": "1fc3d5173b90b264",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8c58f317bf6176",
+            "id": "c615422f6900268d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Lecture 5 - GDA and Naive Bayes"
+            }
+          },
+          {
+            "id": "efd05b59895e389c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lecture 5/generative_learning_algorithms.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "generative_learning_algorithms.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9aceb7dcc03edd7a",
@@ -193,10 +211,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7d8c58f317bf6176",
+  "active": "efd05b59895e389c",
   "lastOpenFiles": [
-    "Lecture 5/probability_density_functions.excalidraw.md",
+    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
     "Lecture 5/generative_learning_algorithms.excalidraw.md",
+    "Lecture 5/probability_density_functions.excalidraw.md",
+    "Lecture 5/media/Screenshot_20260206_104005.png",
     "Lecture 4/multiclass_classification.excalidraw.md",
     "Lecture 4/exponential_family_and_generalized_linear_models.excalidraw.md",
     "Lecture 3/probabilistic_interpretation.excalidraw.md",
@@ -212,7 +232,6 @@
     "Lecture 2/media",
     "Lecture 5/media/Screenshot_20260205_185341.png",
     "Lecture 5/media",
-    "Lecture 5/Lecture 5 - GDA and Naive Bayes.md",
     "Lecture 5/media/Screenshot_20260205_190143.png",
     "Lecture 5/media/Screenshot_20260205_191332.png",
     "Lecture 5/media/Screenshot_20260205_190925.png",
@@ -220,7 +239,6 @@
     "Lecture 5/media/Screenshot_20260205_190606.png",
     "Lecture 5/media/Screenshot_20260205_190514.png",
     "Lecture 5/media/Screenshot_20260205_185810.png",
-    "Lecture 5/media/Screenshot_20260205_185657.png",
     "Usefull links.md",
     "Excalidraw",
     "Lecture 4/Lecture 4 - Exponential family, Generalized Linear Model.md",
